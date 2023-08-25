@@ -6,7 +6,7 @@
 
   <p>Hassan Md. Osman</p>
   
-  <p>Email:hassanmdosman@gmail.com </p>
+  <p>Email: hassanmdosman@gmail.com </p>
   
 ## Issues
 
