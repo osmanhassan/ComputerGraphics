@@ -1,4 +1,4 @@
-## ComputerGraphics
+# Snake Game
 
   <p>This is a snake game done with gl application using c++.</p>
   
